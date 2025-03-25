@@ -180,7 +180,7 @@ button {
   display: inline-block;
   max-width: 100%;
   margin: 12px 0;
-  border: 2px solid transparent;
+  border: 20px solid transparent;
   border-radius: 2.4em;
   padding: 0.5em 0.4em;
   font-family: var(--body-font-family);
