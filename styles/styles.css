@@ -186,7 +186,7 @@ button {
   font-family: var(--body-font-family);
   font-style: normal;
   font-weight: 500;
-  line-height: 1.25;
+  line-height: 1.00;
   text-align: center;
   text-decoration: none;
   background-color: var(--link-color);
